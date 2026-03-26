@@ -34,17 +34,3 @@ Installation & Usage
 Prerequisites
 Visual Studio
 .NET Framework (Windows Forms support)
-
-Running the Program
-Clone this repository:
-git clone https://github.com/YOUR_USERNAME/maze-dfs-solver.git
-
-Open the solution file in Visual Studio
-
-Run the project
-
-Controls
-START / SOLVE: Begins the DFS solving process
-RESET MAZE: Restores the default maze
-RANDOMIZE: Generates a random maze
-Mouse Click: Toggle walls on the grid
